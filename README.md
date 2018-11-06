@@ -14,7 +14,7 @@ In this unit, coders will create a Rock, Paper, Scissors game. The Rock, Paper, 
 - [ ] Make your site live on gh-pages
 
 ### JavaScript
-- [ ] Add a click handler that displays the value of the input within the div with the id `#userChoice`
+- [x] Add a click handler that displays the value of the input within the div with the id `#userChoice`
 
 
 ### HTML and CSS
